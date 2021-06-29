@@ -1,4 +1,4 @@
 # 2021-NCKU-IDS-HW1
 <pre>
-hw1 kmean and move data analyze
+HW1 kmean and movie data analyze
 </pre>
